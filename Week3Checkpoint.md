@@ -1,1 +1,3 @@
-Week 3 Notes
+*WEEK 3 NOTES
+
+Quick Recap: Normative Ethics. 
