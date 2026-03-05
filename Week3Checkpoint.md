@@ -14,6 +14,8 @@
 categorical Imperative (universalizability + treat persons as ends, not mere means
 via deception/coercion/manipulation).
 
+- Normative Ethics studies how people should act morally. 
+
 # Week 2-3 Content
 
 # What exactly is ethics? 
@@ -30,11 +32,24 @@ For example:
 
 Computing systems are not just tools, they infleunce the real world. 
 
+Therefore, engineers must consider the: 
+    - Social impact
+    - fairness
+    - privacy
+    - harm
 
-# Normative Ethics
-- Normative Ethics studies how people should act morally. 
+Ethics asks the fundamental philosphical question: 
+    - What is one meant to do? 
 
-
+# The THREE levels of ethics
+    - Personal ethics
+        - Your own moral beliefs. 
+            -e.g: "Should I hack this system?" 
+    - Professional ethics
+        - Rules for a profession. 
+            -e.g: Doctors - Hippocratic oath, engineers: professional standards. 
+            - For computing, includes ACM Code of Ethics. 
+    - Societal ethics
 
 
 
