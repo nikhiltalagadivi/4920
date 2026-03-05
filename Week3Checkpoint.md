@@ -14,6 +14,21 @@
 categorical Imperative (universalizability + treat persons as ends, not mere means
 via deception/coercion/manipulation).
 
+# Week 2-3 Content
+
+# What exactly is ethics? 
+- Ethics is simply the study of what exactly is right and wrong and why. 
+
+# Why ethics in computing
+- Because computing systems directly affect society. 
+
+For example: 
+    - Algorithms decide loans
+    - AI Decides hiring
+    - Social media shapes public opinion
+    - Medical software affects health decisions
+
+Computing systems are not just tools, they infleunce the real world. 
 
 
 # Normative Ethics
